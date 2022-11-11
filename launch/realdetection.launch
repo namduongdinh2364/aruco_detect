@@ -1,0 +1,7 @@
+<launch>
+
+  <arg name="camera_name" default="/camera"/>
+  <arg name="image_topic" default="color/image_raw" />
+
+
+</launch>
